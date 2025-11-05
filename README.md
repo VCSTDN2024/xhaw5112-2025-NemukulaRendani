@@ -1,5 +1,5 @@
 ### GitHub link: 
-https://github.com/VCSTDN2024/xhaw5112-2025-NemukulaRendani/tree/main
+https://github.com/VCSTDN2024/xhaw5112-2025-Sylvester-N.git 
 ### Empowering The Nation Website
 A static, responsive website for the skills development organisation 'Empowering the Nation'. This platform is designed to highlight the organization's mission and training programs, and provide a clear, interactive way for prospective students to inquire about courses and pricing.
 
